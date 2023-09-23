@@ -6,8 +6,8 @@ const downloadImgBtn = lightbox.querySelector(".uil-import");
 const closeImgBtn = lightbox.querySelector(".close-icon");
 
 // API key, paginations, searchTerm variables
-// const apiKey = "PASTE-YOUR-API-KEY";
-const apiKey = "b0S7H7N5icQsIhTVRLETV5k2uUOckJAIrdalbxd6Y03NV0uywTXaoFgd";
+const apiKey = "PASTE-YOUR-API-KEY";
+// const apiKey = "b0S7H7N5icQsIhTVRLETV5k2uUOckJAIrdalbxd6Y03NV0uywTXaoFgd"; This is my Key -> It can expire! 
 const perPage = 15;
 let currentPage = 1;
 let searchTerm = null;
