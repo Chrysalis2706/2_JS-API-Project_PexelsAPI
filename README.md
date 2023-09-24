@@ -8,6 +8,10 @@
 
 This mini project allows users to search for specific types of images using the Pexels API. Developed by Parth, this JavaScript application is a simple and efficient way to find and display the desired images.
 
+### Preview
+
+![preview](./preview.png)
+
 ### How to Use
 
 > Open the project in your preferred web browser. <br>
